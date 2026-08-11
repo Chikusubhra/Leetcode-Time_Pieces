@@ -1,179 +1,156 @@
 <div align="center">
-🚀 LeetCode DSA — Java
-Mastering Data Structures & Algorithms through Problem Solving
-<p> <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" /> <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode" /> <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Level-Easy%20%7C%20Medium%20%7C%20Hard-success?style=for-the-badge" /> </p>
 
-💡 Solve problems. Understand patterns. Improve implementation. Build strong DSA fundamentals.
+# 🚀 LeetCode DSA — Java
+### Mastering Data Structures & Algorithms through Problem Solving
+
+<p>
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Easy%20%7C%20Medium%20%7C%20Hard-success?style=for-the-badge" />
+</p>
+
+💡 **Solve problems. Understand patterns. Improve implementation. Build strong DSA fundamentals.**
 
 </div>
-🧠 About This Repository
-<table> <tr> <td width="50%">
-🎯 Purpose
 
-This repository contains my LeetCode problem-solving journey, implemented primarily in Java.
+---
 
-The goal is not just to collect accepted solutions, but to:
+## 🧠 About This Repository
 
-🧠 Improve logical thinking
-🧩 Master DSA concepts
-⚡ Learn efficient algorithms
-☕ Improve Java implementation
-🔍 Recognize problem-solving patterns
-📈 Prepare for coding interviews
-</td> <td width="50%">
-🚀 Learning Approach
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎯 Purpose</h3>
+      <p>This repository contains my LeetCode problem-solving journey, implemented primarily in Java.</p>
+      <p>The goal is not just to collect accepted solutions, but to:</p>
+      <ul>
+        <li>🧠 Improve logical thinking</li>
+        <li>🧩 Master DSA concepts</li>
+        <li>⚡ Learn efficient algorithms</li>
+        <li>☕ Improve Java implementation</li>
+        <li>🔍 Recognize problem-solving patterns</li>
+        <li>📈 Prepare for coding interviews</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🚀 Learning Approach</h3>
+      <p>Every problem is treated as an opportunity to learn something new.</p>
+      <p>
+        Understand ➔ Analyze ➔ Brute Force ➔ Find Pattern ➔ Optimize ➔ Implement ➔ Test ➔ Review
+      </p>
+    </td>
+  </tr>
+</table>
 
-Every problem is treated as an opportunity to learn something new.
+---
 
-Understand
-    ↓
-Analyze
-    ↓
-Brute Force
-    ↓
-Find Pattern
-    ↓
-Optimize
-    ↓
-Implement
-    ↓
-Test
-    ↓
-Review
+## 📊 Problem Difficulty
 
-</td> </tr> </table>
-📊 Problem Difficulty
-<table> <tr> <td align="center" width="33%">
-🟢 EASY
-Fundamentals
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🟢 EASY</h3>
+      <p><b>Fundamentals</b></p>
+      <p>Arrays • Strings • Hashing • Basic Math • Linked Lists</p>
+      <hr>
+      <p><b>Goal:</b> Build strong fundamentals and learn common patterns.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🟡 MEDIUM</h3>
+      <p><b>Problem Solving</b></p>
+      <p>Binary Search • Trees • Graphs • Sliding Window • DP</p>
+      <hr>
+      <p><b>Goal:</b> Develop pattern recognition and optimization skills.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔴 HARD</h3>
+      <p><b>Advanced DSA</b></p>
+      <p>Advanced DP • Graphs • Tries • Segment Trees • Optimization</p>
+      <hr>
+      <p><b>Goal:</b> Solve complex problems using advanced techniques.</p>
+    </td>
+  </tr>
+</table>
 
-Arrays • Strings • Hashing • Basic Math • Linked Lists
+---
 
-Goal
+## 🧩 DSA Roadmap
 
-Build strong fundamentals and learn common patterns.
+<table>
+  <tr>
+    <td align="center" width="25%"><b>📦 Arrays</b><br>Two Pointers<br>Sliding Window<br>Prefix Sum<br>Kadane's Algorithm<br>Intervals</td>
+    <td align="center" width="25%"><b>🔤 Strings</b><br>Hashing<br>Palindromes<br>Anagrams<br>Sliding Window<br>String Matching</td>
+    <td align="center" width="25%"><b>🔗 Linked List</b><br>Reverse<br>Fast & Slow<br>Cycle Detection<br>Merge Lists<br>Intersection</td>
+    <td align="center" width="25%"><b>📚 Stack / Queue</b><br>Monotonic Stack<br>Deque<br>BFS<br>Parentheses<br>Next Greater Element</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌳 Trees</b><br>DFS • BFS • BST • LCA • Tree DP</td>
+    <td align="center"><b>🕸️ Graphs</b><br>DFS • BFS • Dijkstra • MST • DSU</td>
+    <td align="center"><b>🔎 Searching</b><br>Binary Search • Search Space • Bounds</td>
+    <td align="center"><b>🏗️ Heap</b><br>Priority Queue • Top K • Kth Element</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔙 Backtracking</b><br>Subsets • Permutations • Combinations • N-Queens</td>
+    <td align="center"><b>💰 Greedy</b><br>Intervals • Scheduling • Optimization</td>
+    <td align="center"><b>🧠 Dynamic Programming</b><br>1D • 2D • Knapsack • Subsequence • Grid</td>
+    <td align="center"><b>🌲 Advanced</b><br>Trie • Segment Tree • Fenwick Tree • Bit Manipulation</td>
+  </tr>
+</table>
 
-</td> <td align="center" width="33%">
-🟡 MEDIUM
-Problem Solving
+---
 
-Binary Search • Trees • Graphs • Sliding Window • DP
+## ⚡ Problem-Solving Patterns
 
-Goal
+<table>
+  <tr>
+    <td align="center">🎯<br><b>Two Pointers</b></td>
+    <td align="center">🪟<br><b>Sliding Window</b></td>
+    <td align="center">🔍<br><b>Binary Search</b></td>
+    <td align="center">🗺️<br><b>Hashing</b></td>
+  </tr>
+  <tr>
+    <td align="center">📊<br><b>Prefix Sum</b></td>
+    <td align="center">📚<br><b>Monotonic Stack</b></td>
+    <td align="center">🏆<br><b>Heap / Top K</b></td>
+    <td align="center">🔄<br><b>Fast & Slow</b></td>
+  </tr>
+  <tr>
+    <td align="center">🌳<br><b>DFS</b></td>
+    <td align="center">🌊<br><b>BFS</b></td>
+    <td align="center">🔙<br><b>Backtracking</b></td>
+    <td align="center">🧠<br><b>Dynamic Programming</b></td>
+  </tr>
+  <tr>
+    <td align="center">💰<br><b>Greedy</b></td>
+    <td align="center">🔗<br><b>Union Find</b></td>
+    <td align="center">📐<br><b>Divide & Conquer</b></td>
+    <td align="center">🕸️<br><b>Topological Sort</b></td>
+  </tr>
+</table>
 
-Develop pattern recognition and optimization skills.
+---
 
-</td> <td align="center" width="33%">
-🔴 HARD
-Advanced DSA
+## ☕ Java DSA Toolkit
 
-Advanced DP • Graphs • Tries • Segment Trees • Optimization
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Collections</h3>
+      <p>ArrayList • LinkedList • HashMap • HashSet • TreeMap • TreeSet • PriorityQueue • Deque • ArrayDeque</p>
+    </td>
+    <td width="50%">
+      <h3>Core Java</h3>
+      <p>Arrays • Strings • StringBuilder • Recursion • Generics • Comparator • Comparable • Lambda • Streams • OOP</p>
+    </td>
+  </tr>
+</table>
 
-Goal
+---
 
-Solve complex problems using advanced techniques.
+## 📁 Repository Structure
 
-</td> </tr> </table>
-🧩 DSA Roadmap
-<table> <tr> <td align="center" width="25%">
-📦 Arrays
-Two Pointers
-Sliding Window
-Prefix Sum
-Kadane's Algorithm
-Intervals
-</td> <td align="center" width="25%">
-🔤 Strings
-Hashing
-Palindromes
-Anagrams
-Sliding Window
-String Matching
-</td> <td align="center" width="25%">
-🔗 Linked List
-Reverse
-Fast & Slow
-Cycle Detection
-Merge Lists
-Intersection
-</td> <td align="center" width="25%">
-📚 Stack / Queue
-Monotonic Stack
-Deque
-BFS
-Parentheses
-Next Greater Element
-</td> </tr> <tr> <td align="center">
-🌳 Trees
-
-DFS • BFS • BST • LCA • Tree DP
-
-</td> <td align="center">
-🕸️ Graphs
-
-DFS • BFS • Dijkstra • MST • DSU
-
-</td> <td align="center">
-🔎 Searching
-
-Binary Search • Search Space • Bounds
-
-</td> <td align="center">
-🏗️ Heap
-
-Priority Queue • Top K • Kth Element
-
-</td> </tr> <tr> <td align="center">
-🔙 Backtracking
-
-Subsets • Permutations • Combinations • N-Queens
-
-</td> <td align="center">
-💰 Greedy
-
-Intervals • Scheduling • Optimization
-
-</td> <td align="center">
-🧠 Dynamic Programming
-
-1D • 2D • Knapsack • Subsequence • Grid
-
-</td> <td align="center">
-🌲 Advanced
-
-Trie • Segment Tree • Fenwick Tree • Bit Manipulation
-
-</td> </tr> </table>
-⚡ Problem-Solving Patterns
-<table> <tr> <td align="center">🎯<br><b>Two Pointers</b></td> <td align="center">🪟<br><b>Sliding Window</b></td> <td align="center">🔍<br><b>Binary Search</b></td> <td align="center">🗺️<br><b>Hashing</b></td> </tr> <tr> <td align="center">📊<br><b>Prefix Sum</b></td> <td align="center">📚<br><b>Monotonic Stack</b></td> <td align="center">🏆<br><b>Heap / Top K</b></td> <td align="center">🔄<br><b>Fast & Slow</b></td> </tr> <tr> <td align="center">🌳<br><b>DFS</b></td> <td align="center">🌊<br><b>BFS</b></td> <td align="center">🔙<br><b>Backtracking</b></td> <td align="center">🧠<br><b>Dynamic Programming</b></td> </tr> <tr> <td align="center">💰<br><b>Greedy</b></td> <td align="center">🔗<br><b>Union Find</b></td> <td align="center">📐<br><b>Divide & Conquer</b></td> <td align="center">🕸️<br><b>Topological Sort</b></td> </tr> </table>
-☕ Java DSA Toolkit
-<table> <tr> <td>
-Collections
-ArrayList
-LinkedList
-HashMap
-HashSet
-TreeMap
-TreeSet
-PriorityQueue
-Deque
-ArrayDeque
-
-</td> <td>
-Core Java
-Arrays
-Strings
-StringBuilder
-Recursion
-Generics
-Comparator
-Comparable
-Lambda
-Streams
-OOP
-
-</td> </tr> </table>
-📁 Repository Structure
+```text
 LeetCode-DSA-Java/
 │
 ├── Easy/
@@ -181,34 +158,24 @@ LeetCode-DSA-Java/
 │   ├── Strings/
 │   ├── Hashing/
 │   ├── LinkedList/
-│   ├── Stack/
-│   ├── Queue/
-│   ├── Trees/
 │   └── ...
 │
 ├── Medium/
 │   ├── Arrays/
 │   ├── BinarySearch/
 │   ├── SlidingWindow/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── DynamicProgramming/
 │   └── ...
 │
 ├── Hard/
 │   ├── Graphs/
 │   ├── DynamicProgramming/
-│   ├── Trees/
-│   ├── Backtracking/
 │   └── ...
 │
 └── README.md
 
-🔄 LeetSync → GitHub
-<table> <tr> <td width="50%">
-⚡ Automatic Workflow
-
-LeetSync helps synchronize accepted LeetCode solutions → GitHub.
+## 🔄 LeetSync → GitHub
+📝 Solution Format Template
+Each problem should focus on understanding + implementation + complexity.
 
 ┌─────────────┐
 │   LeetCode  │
@@ -260,7 +227,7 @@ Each problem should focus on understanding + implementation + complexity.
 │  ⚙️ Algorithm                       │
 │  Step-by-step solution              │
 │                                     │
-│  ☕ Java Implementation              │
+│  ☕ Java Implementation             │
 │  Clean & optimized code             │
 │                                     │
 │  ⏱️ Time Complexity                 │
@@ -326,46 +293,23 @@ Ask:
 📈 Progress
 <div align="center">
 Difficulty	Progress
-🟢 Easy	🔲 🔲 🔲 🔲 🔲
+🟢 Easy	    🔲 🔲 🔲 🔲 🔲
 🟡 Medium	🔲 🔲 🔲 🔲 🔲
-🔴 Hard	🔲 🔲 🔲 🔲 🔲
+🔴 Hard	    🔲 🔲 🔲 🔲 🔲
 </div>
 
 Update the progress as the repository grows.
 
 🧠 Learning Philosophy
 <div align="center">
-❌ Don't memorize solutions.
-✅ Understand patterns.
-❌ Don't chase problem counts.
-✅ Build problem-solving ability.
-❌ Don't just copy accepted code.
-✅ Understand why the solution works.
+    ❌ Don't memorize solutions.
+    ✅ Understand patterns.
+    ❌ Don't chase problem counts.
+    ✅ Build problem-solving ability.
+    ❌ Don't just copy accepted code.
+    ✅ Understand why the solution works.
 </div>
-🔁 Revision Strategy
-Day 0
-  │
-  ├── Solve the problem
-  │
-Day 1
-  │
-  ├── Review the approach
-  │
-Day 3
-  │
-  ├── Try solving without notes
-  │
-Day 7
-  │
-  ├── Review the pattern
-  │
-Day 14
-  │
-  ├── Solve a variation
-  │
-Day 30
-  │
-  └── Final revision
+
 
 🎯 The Goal
 "I have seen this problem."
@@ -395,17 +339,29 @@ Learn the language and standard library used for implementations.
 Automatically synchronize LeetCode solutions with GitHub.
 
 </td> </tr> </table>
+📚 Resources
 🏆 Goals
-☐ Master Java
-☐ Master DSA fundamentals
-☐ Solve Easy problems independently
-☐ Become confident with Medium problems
-☐ Solve selected Hard problems
-☐ Master common DSA patterns
-☐ Improve time & space complexity analysis
-☐ Build strong interview problem-solving skills
-☐ Maintain consistent daily practice
-☐ Build a searchable DSA knowledge base
+[ ] Master Java
+
+[ ] Master DSA fundamentals
+
+[ ] Solve Easy problems independently
+
+[ ] Become confident with Medium problems
+
+[ ] Solve selected Hard problems
+
+[ ] Master common DSA patterns
+
+[ ] Improve time & space complexity analysis
+
+[ ] Build strong interview problem-solving skills
+
+[ ] Maintain consistent daily practice
+
+[ ] Build a searchable DSA knowledge base
+
+🚀 Learn • Solve • Analyze • Optimize • Repeat
 
 <div align="center">
 🚀 Learn • Solve • Analyze • Optimize • Repeat
