@@ -1,0 +1,19 @@
+class Solution {
+    public boolean isPalindrome(String s) {
+        s=s.toLowerCase().replaceAll("[^a-z0-9]","");
+        return pall(s);
+    }
+
+    public boolean pall(String str) {
+        int left = 0;
+        int right = str.length() - 1;
+        while (left < right) {
+            if (str.charAt(left) != str.charAt(right)) {
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
+    }
+}
