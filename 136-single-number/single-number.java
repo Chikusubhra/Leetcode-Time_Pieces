@@ -1,5 +1,6 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        /*
         Map<Integer,Integer> map=new HashMap<Integer,Integer>();
         for(int i=0;i<nums.length;i++){
             if(map.containsKey(nums[i])){
@@ -14,5 +15,11 @@ class Solution {
             }
         }
         return -1;
+        */
+        int result=0;
+        for(int num:nums){
+            result ^=num;
+        }
+        return result;
     }
 }
